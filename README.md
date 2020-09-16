@@ -10,7 +10,7 @@ $ pip install requests
 
 $ pip install bs4
 
-$ git clone https://github.com/MainIT/IG_FolLik
+$ git clone https://github.com/MainIT/IG_React_FolLik
 
 $ cd IG_FolLik
 
