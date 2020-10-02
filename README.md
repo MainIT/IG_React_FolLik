@@ -1,14 +1,6 @@
 # IG_React_FolLik
 
-$ pkg update && pkg upgrade
-
 $ pkg install git
-
-$ pkg install python2
-
-$ pip install requests
-
-$ pip install bs4
 
 $ git clone https://github.com/MainIT/IG_React_FolLik
 
